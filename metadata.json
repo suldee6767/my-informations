@@ -1,0 +1,6 @@
+{
+  "name": "Сүлд-Очирын Хувийн Портфолио",
+  "description": "Сүлд-Очирын хувийн вэбсайт, танилцуулга болон хийсэн бүтээлүүдийн цуглуулга.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
